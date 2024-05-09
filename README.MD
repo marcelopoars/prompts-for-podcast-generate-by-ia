@@ -2,6 +2,7 @@
 <img 
     src="./assets/cover.jpg"
     width="400"
+    style="border-radius: 100%;"
 />
 </p>
 
