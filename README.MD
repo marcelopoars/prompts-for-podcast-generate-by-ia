@@ -1,7 +1,7 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="300"
+    src="./assets/cover.jpg"
+    width="400"
 />
 </p>
 
@@ -23,13 +23,16 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast_editado.MP3" controls title="Podcast editado">eee</audio>
 </div>
+
+<br>
 
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+> ℹ️ **NOTE:** Este repositório foi criado para o desafio "
+Criando um Podcast com IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -44,56 +47,51 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Roteiro gerado via ChatGPT
+- Audio gerado pela ElevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
+- [Artigo de referência sobre SEO](https://www.linkedin.com/pulse/como-melhorar-o-seo-do-meu-site-marcelo-pereira)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Editor de aúdio](https://www.capcut.com)
 
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 1. Use os prompts de roteiro no `ChaGPT`
+- 🤖 2. Use os prompts de roteiro gerados pelo ChatGPT no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👨‍💻 Expert
 
 <p>
     <img 
-      align=left 
-      margin=10 
+      align="left" 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/3664022?v=4"
+      style="margin-right: 16px;"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
+    <strong>Marcelo Pereira</strong>
+    <br>
+    <a href="https://github.com/marcelopoars" target="_blank">
         GitHub
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
+    <a href="https://linkedin.com/in/marcelopoars" target="_blank">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://instagram.com/dicadonerd" target="_blank">
         Instagram
     </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
+    &nbsp;|&nbsp;
 <p>
+
+<br>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Criado com 💜 por [Marcelo Pereira](https://github.com/marcelopoars)
