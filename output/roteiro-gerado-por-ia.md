@@ -1,4 +1,4 @@
-# Roteiro do primeiro episódio do "Dica do Nerd Cast"
+# Roteiro gerado por IA"
 
 > Criado com ChatGPT
 
