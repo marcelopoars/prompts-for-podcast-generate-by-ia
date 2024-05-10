@@ -1,3 +1,8 @@
+# Roteiro revisado por humano"
+
+> Revisado por Marcelo Pereira
+
+
 E aí, galera! Sejam todos muito bem-vindos ao Dica do Nerd Cast, o podcast que desvenda os segredos do universo tech de forma simples e descontraída! Eu sou Marcelo Pereira, seu guia nessa jornada repleta de dicas e códigos. E hoje, preparem-se, porque vamos mergulhar de cabeça no mundo mágico do SEO!
 
 Se você está se perguntando 'Como melhorar o SEO do meu site?', então você veio ao lugar certo! Neste episódio, vamos desvendar os mistérios por trás do SEO e trazer dicas práticas para você deixar seu site mais fácil de ser encontrado pelo Google e outros buscadores. E como guia vamos usar como base um artigo que eu escrevi lá no meu LinkedIn. Se ainda não leu, corre lá e confere!
