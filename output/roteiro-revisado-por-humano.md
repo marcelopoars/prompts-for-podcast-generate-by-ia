@@ -2,6 +2,7 @@
 
 > Revisado por Marcelo Pereira
 
+<br>
 
 E aí, galera! Sejam todos muito bem-vindos ao Dica do Nerd Cast, o podcast que desvenda os segredos do universo tech de forma simples e descontraída! Eu sou Marcelo Pereira, seu guia nessa jornada repleta de dicas e códigos. E hoje, preparem-se, porque vamos mergulhar de cabeça no mundo mágico do SEO!
 

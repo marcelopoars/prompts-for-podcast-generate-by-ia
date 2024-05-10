@@ -2,6 +2,8 @@
 
 > Criado com ChatGPT
 
+<br>
+
 Introdução:
 
 [Trilha sonora animada]
