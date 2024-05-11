@@ -80,6 +80,9 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         Instagram
     </a>
     &nbsp;|&nbsp;
+    <a href="https://marcelopereira.dev" target="_blank">
+        Website (Portfólio)
+    </a>
 <p>
 
 <br>
